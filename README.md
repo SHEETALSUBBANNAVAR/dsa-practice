@@ -8,6 +8,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -39,4 +40,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
