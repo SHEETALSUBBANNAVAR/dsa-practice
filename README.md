@@ -44,4 +44,16 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
