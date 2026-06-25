@@ -13,6 +13,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0485-max-consecutive-ones](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,5 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
