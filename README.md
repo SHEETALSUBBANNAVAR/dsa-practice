@@ -14,11 +14,13 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
