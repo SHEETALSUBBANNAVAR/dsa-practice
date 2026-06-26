@@ -68,6 +68,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -86,4 +87,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
