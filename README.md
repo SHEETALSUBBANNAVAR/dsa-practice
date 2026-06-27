@@ -17,6 +17,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -38,6 +39,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting
 |  |
 | ------- |
