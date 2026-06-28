@@ -65,6 +65,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
