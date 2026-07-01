@@ -18,6 +18,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0485-max-consecutive-ones](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -34,6 +35,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -54,6 +56,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Math
 |  |
@@ -92,6 +95,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
