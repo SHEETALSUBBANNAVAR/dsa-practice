@@ -18,6 +18,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0485-max-consecutive-ones](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -133,6 +134,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
