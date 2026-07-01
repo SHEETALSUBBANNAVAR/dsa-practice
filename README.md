@@ -68,6 +68,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2769-find-the-maximum-achievable-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2769-find-the-maximum-achievable-number) |
 ## Prefix Sum
 |  |
 | ------- |
