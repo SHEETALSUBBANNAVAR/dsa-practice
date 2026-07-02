@@ -62,6 +62,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
