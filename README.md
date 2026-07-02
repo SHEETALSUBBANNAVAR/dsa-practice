@@ -109,6 +109,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
+| [3798-largest-even-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3798-largest-even-number) |
 ## Stack
 |  |
 | ------- |
