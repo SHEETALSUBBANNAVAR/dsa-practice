@@ -81,6 +81,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
@@ -98,6 +99,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
@@ -130,6 +132,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
 ## Recursion
 |  |
