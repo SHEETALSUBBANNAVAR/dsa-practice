@@ -72,6 +72,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2769-find-the-maximum-achievable-number) |
 ## Prefix Sum
 |  |
@@ -107,6 +108,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0520-detect-capital](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3798-largest-even-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3798-largest-even-number) |
@@ -153,6 +155,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Monotonic Stack
