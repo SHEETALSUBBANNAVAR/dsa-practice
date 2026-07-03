@@ -12,6 +12,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0041-first-missing-positive](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -99,6 +100,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
