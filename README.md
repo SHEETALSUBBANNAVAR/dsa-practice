@@ -15,6 +15,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
@@ -88,6 +89,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
@@ -96,6 +98,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -137,6 +140,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
