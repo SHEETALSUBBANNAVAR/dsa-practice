@@ -7,6 +7,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
@@ -177,4 +179,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
