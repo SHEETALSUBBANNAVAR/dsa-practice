@@ -73,6 +73,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0263-ugly-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0343-integer-break) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -138,6 +139,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0343-integer-break](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0343-integer-break) |
 ## Binary Search
 |  |
 | ------- |
