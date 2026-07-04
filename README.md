@@ -29,6 +29,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
@@ -127,6 +128,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3798-largest-even-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3798-largest-even-number) |
 ## Stack
