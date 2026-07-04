@@ -92,6 +92,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
@@ -114,6 +115,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0014-longest-common-prefix](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0520-detect-capital) |
