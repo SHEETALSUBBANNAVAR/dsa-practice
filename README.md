@@ -45,6 +45,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0001-two-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
@@ -101,6 +102,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
@@ -211,4 +213,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
