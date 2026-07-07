@@ -102,6 +102,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
@@ -220,6 +221,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
