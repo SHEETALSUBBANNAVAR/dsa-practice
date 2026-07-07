@@ -228,4 +228,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
