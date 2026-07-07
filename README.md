@@ -110,6 +110,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0876-middle-of-the-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0925-long-pressed-name) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
@@ -226,4 +227,5 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
