@@ -105,6 +105,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -147,6 +148,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1021-remove-outermost-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
@@ -182,6 +184,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
@@ -219,4 +222,5 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
