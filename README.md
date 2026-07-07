@@ -181,6 +181,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
@@ -217,4 +218,5 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
