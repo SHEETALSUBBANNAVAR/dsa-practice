@@ -145,6 +145,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
+| [3340-check-balanced-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3340-check-balanced-string) |
 | [3798-largest-even-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3838-weighted-word-mapping) |
 ## Stack
