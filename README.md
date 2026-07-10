@@ -38,6 +38,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3838-weighted-word-mapping) |
@@ -56,6 +57,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
+| [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
