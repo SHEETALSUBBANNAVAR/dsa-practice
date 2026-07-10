@@ -154,6 +154,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [3340-check-balanced-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3340-check-balanced-string) |
 | [3798-largest-even-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3838-weighted-word-mapping) |
+| [3931-check-adjacent-digit-differences](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
 | ------- |
