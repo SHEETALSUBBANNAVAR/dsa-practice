@@ -242,6 +242,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0584-find-customer-referee) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1683-invalid-tweets](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
