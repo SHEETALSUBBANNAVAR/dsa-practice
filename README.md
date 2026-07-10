@@ -184,6 +184,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 ## String Matching
@@ -245,4 +246,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1683-invalid-tweets](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
