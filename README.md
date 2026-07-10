@@ -54,6 +54,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
@@ -82,6 +83,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3848-check-digitorial-permutation](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3848-check-digitorial-permutation) |
 ## Math
@@ -150,6 +152,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
