@@ -55,6 +55,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -91,6 +92,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [3848-check-digitorial-permutation](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3848-check-digitorial-permutation) |
 ## Prefix Sum
