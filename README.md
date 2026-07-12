@@ -250,6 +250,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
