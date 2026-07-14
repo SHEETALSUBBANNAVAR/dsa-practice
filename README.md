@@ -171,6 +171,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -269,4 +270,16 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
