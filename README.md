@@ -127,6 +127,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1768-merge-strings-alternately) |
@@ -153,6 +154,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -182,6 +184,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
@@ -189,6 +192,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
