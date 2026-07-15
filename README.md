@@ -181,6 +181,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
@@ -287,6 +288,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0144-binary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0144-binary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
