@@ -165,6 +165,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3340-check-balanced-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3340-check-balanced-string) |
 | [3798-largest-even-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3838-weighted-word-mapping) |
@@ -182,6 +183,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1021-remove-outermost-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Simulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0055-jump-game](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0343-integer-break) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Monotonic Stack
 |  |
