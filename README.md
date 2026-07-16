@@ -105,6 +105,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2769-find-the-maximum-achievable-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3848-check-digitorial-permutation](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3848-check-digitorial-permutation) |
 ## Prefix Sum
 |  |
@@ -322,4 +323,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
