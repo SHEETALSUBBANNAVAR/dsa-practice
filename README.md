@@ -59,6 +59,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -93,6 +94,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -163,6 +165,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
