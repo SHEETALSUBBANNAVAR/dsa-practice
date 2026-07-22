@@ -41,6 +41,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
@@ -63,6 +64,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
@@ -92,6 +94,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [3848-check-digitorial-permutation](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3848-check-digitorial-permutation) |
 ## Math
 |  |
@@ -105,6 +108,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
