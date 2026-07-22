@@ -38,6 +38,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -63,6 +64,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
@@ -93,6 +95,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [3848-check-digitorial-permutation](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3848-check-digitorial-permutation) |
