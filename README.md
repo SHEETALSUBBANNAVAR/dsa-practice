@@ -127,6 +127,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
@@ -284,6 +285,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
