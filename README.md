@@ -413,4 +413,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2951-find-the-peaks) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
