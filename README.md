@@ -69,6 +69,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -196,6 +197,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0020-valid-parentheses) |
@@ -296,6 +298,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
