@@ -136,6 +136,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0343-integer-break) |
+| [0445-add-two-numbers-ii](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -238,6 +239,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0145-binary-tree-postorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -339,6 +341,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0160-intersection-of-two-linked-lists](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
