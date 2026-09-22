@@ -145,6 +145,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2119-a-number-after-a-double-reversal](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2769-find-the-maximum-achievable-number) |
