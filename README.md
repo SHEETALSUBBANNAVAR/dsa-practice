@@ -72,6 +72,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0001-two-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -133,6 +134,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
@@ -206,6 +208,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
