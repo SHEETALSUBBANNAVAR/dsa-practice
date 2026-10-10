@@ -135,6 +135,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0002-add-two-numbers](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
@@ -193,6 +194,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
