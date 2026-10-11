@@ -59,6 +59,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2951-find-the-peaks) |
 | [3452-sum-of-good-numbers](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3452-sum-of-good-numbers) |
@@ -435,6 +436,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2951-find-the-peaks) |
 ## Manacher
 |  |
