@@ -66,6 +66,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [3638-maximum-balanced-shipments](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -117,6 +118,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2645-minimum-additions-to-make-valid-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3638-maximum-balanced-shipments](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
