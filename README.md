@@ -61,6 +61,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2733-neither-minimum-nor-maximum](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2951-find-the-peaks) |
 | [3452-sum-of-good-numbers](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3452-sum-of-good-numbers) |
 | [3638-maximum-balanced-shipments](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3638-maximum-balanced-shipments) |
@@ -96,6 +97,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -445,4 +447,12 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
