@@ -143,6 +143,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0029-divide-two-integers](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0263-ugly-number) |
@@ -282,6 +283,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0343-integer-break) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -455,4 +457,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
