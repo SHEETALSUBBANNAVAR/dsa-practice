@@ -33,6 +33,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0485-max-consecutive-ones](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -151,6 +152,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0343-integer-break) |
 | [0445-add-two-numbers-ii](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -286,6 +288,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0070-climbing-stairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0343-integer-break) |
+| [0877-stone-game](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0877-stone-game) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3638-maximum-balanced-shipments](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3638-maximum-balanced-shipments) |
 ## Binary Search
@@ -461,4 +464,16 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
